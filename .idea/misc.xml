@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/bg_overlay.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/brand_24.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/btn_back.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/cart_24.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/home_24.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_arrow_back_ios_24.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_blush.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_bronzer.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_eyebrow.xml" value="0.17" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_eyeliner.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_eyeshadow.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_fav_24.xml" value="0.1" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_foundation.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_hamburger.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_lip_liner.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_lipstick.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_logo.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_mascara.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_minus.xml" value="0.2885" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_nail_polish.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_round_favorite_border_24.xml" value="0.156" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_trash.xml" value="0.2885" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/ic_videocam_24.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/product_back.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/search_white_back.xml" value="0.1575" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/sort_24.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/drawable/user_circle_24.xml" value="0.1735" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/activity_main.xml" value="0.3109375" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/activity_product.xml" value="0.25" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/fragment_cart.xml" value="0.25462962962962965" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/fragment_category.xml" value="0.25462962962962965" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/fragment_favorite.xml" value="0.25462962962962965" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/fragment_home.xml" value="0.25462962962962965" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/image_slider_layout_item.xml" value="0.33229166666666665" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/item_cart.xml" value="0.32864583333333336" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/item_ctg.xml" value="0.25" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/item_product.xml" value="0.33" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/my_toolbar.xml" value="0.25462962962962965" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/layout/my_toolbar_for_product.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android project/K_E_Cart_MAAD/app/src/main/res/menu/bottom_menu.xml" value="0.32916666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
